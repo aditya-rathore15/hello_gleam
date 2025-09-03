@@ -10,7 +10,8 @@ import gleam/int
 pub fn main() {
   echo 1 + 1
   echo 5 - 1
-  echo 5 / 2  // 2 (integer division, result is truncated)
+  echo 5 / 2
+  // 2 (integer division, result is truncated)
   echo 3 * 3
   echo 5 % 2
 
